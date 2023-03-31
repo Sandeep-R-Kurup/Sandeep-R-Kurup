@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://discovered-icecream-305.notion.site/image/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7d%2F07%2Fa2%2F7d07a255678962d30d8717dcf5dbd266.gif?table=block&id=24552513-40ce-4673-ab6f-f22014b90ba3&spaceId=4a7c658f-278d-4556-aee6-c1af40c7c0bb&userId=&cache=v2" alt="Sandeep-R-Kurup" /> </p>
 
 <h1 align="center">Hai 👋, its me SANDEEP R KURUP</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a skilled SpringBoot Developer with a focus on HTML, CSS, React, and other front-end technologies. With a passion for coding and a drive to excel, I have a proven track record of delivering high-quality software solutions. My expertise in server-side technologies, including Spring Boot, MySQL, and Postman, makes me a well-rounded developer capable of handling complex projects.
+<h3 align="center">Welcome to my GitHub profile! I am a skilled SpringBoot Developer with a focus on HTML, CSS, React, and other front-end technologies. With a passion for coding and a drive to excel. My expertise in server-side technologies, including Spring Boot, MySQL, and Postman, makes me a well-rounded developer capable of handling complex projects.
 
 As a lifelong learner, I stay up-to-date with the latest trends and advancements in the field of web development. I pay attention to detail and enjoy working collaboratively to find the best solutions. I am always ready to take on new challenges and learn new things, whether it's a new technology, framework, or programming language.
 
@@ -12,10 +12,9 @@ With my problem-solving skills and ability to learn quickly, I am confident in m
 
 # 💫 about me:-
 🔭 I’m currently working in Spring Boot.
-<br>🤝 I’m looking for help with ReactJS
-<br>🌱 I’m currently learning Front-End
+<br>🌱 I’m currently learning ReactJS
 <br>💬 Ask me about Java.
-<br>⚡ Fun fact "java was invented by accident".
+<br>⚡ Fun fact "The first computer bug was an actual real-life bug".
 <br>📫 Reach me **sandeeprkurup.info@gmail.com**
 
 
