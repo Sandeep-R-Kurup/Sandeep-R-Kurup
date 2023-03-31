@@ -1,6 +1,6 @@
-### Sandeep R Kurup 👋
+### hi there , hope you are doing well! 👋
 
-# 💫 About Me:
+# 💫 SANDEEP R KURUP:-
 🔭 I’m currently working in Spring Boot.<br>🤝 I’m looking for help with ReactJS<br>🌱 I’m currently learning Front-End<br>💬 Ask me about Java.<br>⚡ Fun fact "java was invented by accident".
 
 
